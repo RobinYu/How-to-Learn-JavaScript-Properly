@@ -1,0 +1,14 @@
+/*
+* @Author: ybjam
+* @Date:   2016-05-20 14:47:11
+* @Last Modified by:   ybjam
+* @Last Modified time: 2016-05-20 14:47:11
+*/
+img {
+	width:100px;
+	height:100px;
+}
+
+table, td {
+	border: 1px #70b8ff dashed;
+}
