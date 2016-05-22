@@ -1,0 +1,41 @@
+/*
+* @Author: ybjam
+* @Date:   2016-05-21 21:06:07
+* @Last Modified by:   ybjam
+* @Last Modified time: 2016-05-21 21:06:07
+*/
+*
+{
+    border: 1px dashed blue;
+}
+
+div
+{
+    width: 100px;
+    height: 50px;
+
+    border: 2px solid black;
+    border-radius: 5px;
+    /*Add your CSS here!*/
+    display: none;
+}
+
+#one
+{
+    background-color: #f00;
+}
+
+#two
+{
+    background-color: #00f;
+}
+
+#three
+{
+    background-color: #ffd700;
+}
+
+#four
+{
+    background-color: #308014;
+}
