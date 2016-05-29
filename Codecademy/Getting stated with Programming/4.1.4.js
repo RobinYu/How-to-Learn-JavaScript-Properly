@@ -2,7 +2,7 @@
 * @Author: robin
 * @Date:   2016-05-27 18:08:52
 * @Last Modified by:   robin
-* @Last Modified time: 2016-05-27 18:11:17
+* @Last Modified time: 2016-05-27 18:27:04
 */
 
 var s="Nicholas";
@@ -18,3 +18,5 @@ console.log(typeof b);
 console.log(typeof u);
 console.log(typeof n);
 console.log(typeof o);
+
+
