@@ -1,0 +1,11 @@
+{
+"extends": "airbnb",
+"plugins": [
+        "react"
+    ],
+"parser": "esprima",
+"rules": {
+      "strict": 0,
+      "no-console":0
+    },
+}

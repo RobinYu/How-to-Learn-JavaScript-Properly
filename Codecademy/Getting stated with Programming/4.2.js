@@ -17,6 +17,5 @@ function changeColor() {
     }
     // 这里可以访问color和anotherColor,但不能访问tempColor
     swapColors();
-
-
+}
 changeColor();

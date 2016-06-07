@@ -1,0 +1,13 @@
+.DS_Store
+lib
+logs
+node_modules
+*.log
+npm-debug.log*
+demo/.svn/
+.sass-cache
+*.swp
+.sw*
+.sw*
+.idea/*
+coverage
