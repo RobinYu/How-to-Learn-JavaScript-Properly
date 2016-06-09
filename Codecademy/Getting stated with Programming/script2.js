@@ -1,7 +1,7 @@
 'use strict';
 let slaying = true;
 let youHit = Math.floor(Math.random() * 2);
-let damageThisRound = Math.floor(Math.random() * 5 + 1);
+const damageThisRound = Math.floor(Math.random() * 5 + 1);
 let totalDamage = 0;
 while (slaying) {
   if (youHit) {
