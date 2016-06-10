@@ -1,9 +1,9 @@
 
 var colors = new Array();
-var count = colors.push('red', 'green');
+var count = colors.unshift('red', 'green');
 console.log(count);
 
-count = colors.push('black');
+count = colors.unshift('black');
 console.log(count);
 
 var item = colors.pop();
